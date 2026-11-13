@@ -26,8 +26,8 @@ Solutions: [LeetCode](https://github.com/Amaltvinod/Leetcode) · [Codeforces](ht
 ## What I'm working on
 
 - **A co-op ghost-investigation game for Android**, built in Godot 4: same-Wi-Fi co-op for up to four players, a ghost that reacts to your voice, and a house built entirely from code. In development.
-- **[event-driven-order-platform](https://github.com/Amaltvinod/event-driven-order-platform)**: order processing with Spring Boot, Kafka, PostgreSQL and Docker. Asynchronous workflows, retries, and producer/consumer messaging between services.
+- **[Silver Sniper](https://github.com/Amaltvinod/silver-sniper)**: a Discord bot for Albion Online, written in Java 21 with JDA. It reads crowd-sourced market prices and answers slash commands for item prices, crafting profit and Black Market flips, with per-server settings and guild-only access.
 
 ## Tools I use
 
-Java · Spring Boot · Kafka · PostgreSQL · Docker · C++ · Python · JavaScript · Go · Godot (GDScript)
+Java · Spring Boot · Kafka · PostgreSQL · Docker · Maven · JUnit · JDA (Discord) · C++ · Python · JavaScript · Go · Godot (GDScript)
